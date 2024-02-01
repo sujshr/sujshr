@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate developer and tech enthusiast</h3>
 
-<div align="center"><img src="./img.jpeg" height="300"></div>
+<div align="center"><img src="./img.jpeg" height="350"></div>
 
 <p align="center">
     📫 How to reach me: <strong>sujshresth@gmail.com</strong>
