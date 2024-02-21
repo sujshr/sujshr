@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=yellow&lines=Hey+There!;+I'm+Sujal!;" />
 </h1>
 
-<h2 align="center"> bout Me:</h2>
+<h2 align="center"> About Me:</h2>
 
 <h3 align="center">A passionate developer and tech enthusiast. I am currently learning FullStack Web development.</h3>
 
